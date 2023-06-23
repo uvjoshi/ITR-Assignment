@@ -1,0 +1,94 @@
+* {
+    margin: 0px;
+}
+
+body {
+    font-family: 'Helvetica';
+}
+
+h2 {
+    color: white;
+    font-size: 20px;
+}
+
+h5 {
+    color: white;
+}
+
+.navbar {
+    background-color: #2d343e;
+    display: flex;
+}
+
+.heading {
+    padding-left: 45px;
+    padding-top: 45px;
+}
+
+.logo {
+    height: 135px;
+    width: 100px;
+    padding-left: 100px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+
+.navtitle {
+    background-color: #099ad1;
+    padding: 15px;
+    padding-left: 260px;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+
+}
+
+li {
+    font-size: 18px;
+    padding-left: 15px;
+
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+    padding-left: 72px;
+    border-style: hidden;
+    border-width: 3px;
+    border-radius: 5px;
+}
+
+.contact-img {
+    height: 30px;
+    width: 30px;
+    margin-bottom: -19px;
+    border-radius: 30px;
+}
+
+.Contact {
+    margin-left: 440px;
+    padding-top: 35px;
+    color: white;
+}
+
+.banner-img {
+    padding-left: 180px;
+}
+
+.container1 {
+    background-color: #87bfed;
+    height: 400px;
+    display: flex;
+    padding-left: 40px;
+    padding-top: 10px;
+}
+
+.mission {
+    width: 800px;
+}
+
+.vision {
+    width: 800px;
+}
